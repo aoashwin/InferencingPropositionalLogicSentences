@@ -1,5 +1,5 @@
-## EX NO:07
-## DATE:23.6.22
+## Ex no: 07
+## Date: 23/6/22
 # <p align="center">Inferencing Propositional Logic Sentences
 
 ## AIM
